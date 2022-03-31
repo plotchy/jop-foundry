@@ -2,6 +2,16 @@
 
 This repo hosts the solution I created to solve ParadigmCTF 2021's JOP. Full writeup of this code and its uses available at https://plotchy.substack.com/p/solving-paradigmctfs-jop-
 
+## How to Use
+- First Install Foundry 
+    - Using instructions @ https://github.com/gakonst/foundry
+- Clone this repo
+    - `git clone https://github.com/plotchy/jop-foundry.git`
+- cd into jop-foundry
+    - `cd jop-foundry`
+- Run forge build
+    - `forge build`
+  
 
 ## Why JOP?
 JOP poses a unique challenge in that you don't have the source code available! Poking holes in a program that you can't read is something I’ve wanted to try and would advocate others to try as well. Approaching problems through first-principles is a great guiding force, and learning the barebones bytecode will round out your skillset alongside Solidity.
