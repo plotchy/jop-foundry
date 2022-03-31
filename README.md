@@ -1,6 +1,6 @@
 # Solving ParadigmCTF's JOP in Foundry
 
-This repo hosts the solution I created to solve ParadigmCTF 2021's JOP. Full writeup of this code and its uses available at https://plotchy.substack.com/
+This repo hosts the solution I created to solve ParadigmCTF 2021's JOP. Full writeup of this code and its uses available at https://plotchy.substack.com/p/solving-paradigmctfs-jop-
 
 
 ## Why JOP?
